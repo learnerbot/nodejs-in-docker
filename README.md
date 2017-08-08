@@ -12,7 +12,7 @@ The following libraries are used in the application.
 
 *[Express](https://expressjs.com/)*: Fast, unopinionated, minimalist web framework for Node.js
 
-*[Docker](https://www.docker.com/): Docker is a software container platform.
+*[Docker](https://www.docker.com/)*: Docker is a software container platform.
 
 ### Dev dependencies
 
