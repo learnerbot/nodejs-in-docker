@@ -1,0 +1,13 @@
+{
+  "name": "nodejs_example",
+  "version": "1.0.0",
+  "description": "Node.js example",
+  "author": "Gergo Peter Nagy <gergo.peter.nagy@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
